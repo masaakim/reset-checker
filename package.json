@@ -1,0 +1,19 @@
+{
+  "name": "reset-checker",
+  "version": "0.0.1",
+  "description": "Check CSS code include reset rule sets",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morishitter/reset-checker/git"
+  },
+  "keywords": ["css"],
+  "author": "Masaaki Morishita",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
